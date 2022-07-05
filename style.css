@@ -1,0 +1,133 @@
+body {
+    font-family: 'Alegreya Sans', sans-serif;
+    margin: 0%;
+
+}
+
+h1 {
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.div1 {
+    color: brown;
+}
+
+.color1 {
+    color: rgb(234, 114, 216);
+
+}
+
+.color2 {
+    color: rgb(83, 189, 196);
+}
+
+.section {
+    display: flex;
+}
+
+.div1 {
+    width: 50%;
+    padding: 3%;
+    border-top: 80px;
+}
+
+.div1 img {
+    width: 100%;
+
+}
+
+p {
+
+    color: rgb(255, 255, 255);
+    font-weight: 100;
+    font-size: 130%;
+}
+
+h3 {
+    width: 700;
+}
+
+.button {
+    text-decoration: none;
+    font-size: 20px;
+    background-image: linear-gradient(rgb(102, 217, 249), rgb(84, 84, 84));
+    text-shadow: 1px 1px 0px;
+    width: 700;
+    color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+
+    padding: 7px 20px;
+}
+
+.first {
+    background-image: url(images/pexels-photo-235985.jpeg);
+    background-repeat: no-repeat;
+}
+
+.color4 {
+    color: brown;
+    text-align: center;
+}
+
+.color5 {
+    color: cadetblue;
+    text-align: justify;
+    margin-top: 40px;
+}
+
+.color6 {
+    color: rgb(26, 138, 223);
+    text-align: center;
+}
+
+.div2 {
+    width: 50%;
+    padding: 3%;
+    box-shadow: 10px 10px 40px darkgray;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    border-radius: 40px;
+
+
+}
+
+.div2 img {
+    width: 100%;
+}
+
+.ok {
+    margin-left: 5%;
+    margin-right: 5%;
+
+    font-size: 40px;
+    width: 50px;
+    color: brown;
+    text-align: center;
+    margin-top: 400px;
+    text-align: center;
+}
+
+.second {
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+
+}
+
+.color7 {
+    color: black;
+    width: 700;
+}
+
+.div3 {
+    width: 50%;
+    padding: 3%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    box-shadow: 10px 10px 40px rgb(147, 145, 145);
+    border-left: 30px;
+    margin-left: 39px;
+
+}
